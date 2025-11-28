@@ -41,5 +41,11 @@ Papers:
 - relation transformer network for diabetic retinopathy multi-lesion segmentation
 - Improved Support Vector Machine based on CNN-SVD for vision-threatening diabetic retinopathy detection and classification
 
+**Classificação de estágio de retinopatia diabética:**
+(**Dataset APTOS**) https://drive.google.com/file/d/1lRRQ-32ZW5TtZ5dcGQK4nY29T4xSCTvK/view?usp=sharing
+
+Papers:
+- Diabetic retinopathy fundus image classification and lesions localization system using deep learning
+
 **Ebook para auxiliar no estudo de Deep Learning:** 
 https://www.deeplearningbook.com.br/
